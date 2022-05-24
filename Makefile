@@ -1,4 +1,4 @@
-CC=gcc
+CC=clang-11
 CFLAGS=-Wall
 LDFLAGS=-lusb -lm
 
